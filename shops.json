@@ -1,1 +1,21 @@
-
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Market",
+      "color": "FF914D"
+    },
+    {
+      "id": 2,
+      "title": "Kasap",
+      "color": "FF5757"
+    },
+    {
+      "id": 3,
+      "title": "Manav",
+      "color": "00BF63"
+    }
+  ],
+  "statusCode": 200,
+  "message": "Success"
+}

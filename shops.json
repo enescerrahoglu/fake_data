@@ -2,17 +2,17 @@
   "data": [
     {
       "id": 1,
-      "title": "Market",
+      "key": "market",
       "color": "FF914D"
     },
     {
       "id": 2,
-      "title": "Kasap",
+      "key": "butcher",
       "color": "FF5757"
     },
     {
       "id": 3,
-      "title": "Manav",
+      "key": "greengrocer",
       "color": "00BF63"
     }
   ],

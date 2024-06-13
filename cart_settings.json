@@ -1,0 +1,9 @@
+{
+  "data": {
+    "deliveryFee": 79.99,
+    "minimumOrderAmount": 1000,
+    "minimumOrderAmountForFreeDelivery": 2000
+  },
+  "statusCode": 200,
+  "message": "Success"
+}

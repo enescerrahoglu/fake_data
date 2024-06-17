@@ -2,7 +2,8 @@
   "data": {
     "deliveryFee": 79.99,
     "minimumOrderAmount": 1000,
-    "freeDeliveryOrderAmount": 2000
+    "freeDeliveryOrderAmount": 2000,
+    "discountAmount": 100
   },
   "statusCode": 200,
   "message": "Success"

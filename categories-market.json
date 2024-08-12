@@ -1,0 +1,1104 @@
+{
+  "data": {
+    "Categories": [
+      {
+        "CategoryId": 80,
+        "DisplayOrder": 1,
+        "Name": "Meyve & Sebze",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00010335.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 81,
+        "DisplayOrder": 0,
+        "Name": "Meyve",
+        "ParentId": 80,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 82,
+        "DisplayOrder": 0,
+        "Name": "Sebze",
+        "ParentId": 80,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 219,
+        "DisplayOrder": 0,
+        "Name": "Yeşillik",
+        "ParentId": 80,
+        "Picture": "",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 83,
+        "DisplayOrder": 2,
+        "Name": "Et Ürünleri",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00009947.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 84,
+        "DisplayOrder": 0,
+        "Name": "Kırmızı Et",
+        "ParentId": 83,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 85,
+        "DisplayOrder": 0,
+        "Name": "Beyaz Et",
+        "ParentId": 83,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 87,
+        "DisplayOrder": 0,
+        "Name": "Et Şarküteri",
+        "ParentId": 83,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 88,
+        "DisplayOrder": 0,
+        "Name": "Konserve Balık",
+        "ParentId": 83,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 89,
+        "DisplayOrder": 8,
+        "Name": "Fırın & Pastane",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00016091.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 90,
+        "DisplayOrder": 0,
+        "Name": "Ekmek",
+        "ParentId": 89,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 92,
+        "DisplayOrder": 0,
+        "Name": "Unlu Mamül",
+        "ParentId": 89,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 93,
+        "DisplayOrder": 0,
+        "Name": "Pasta & Tatlı",
+        "ParentId": 89,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 94,
+        "DisplayOrder": 0,
+        "Name": "Özel Beslenme",
+        "ParentId": 89,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 95,
+        "DisplayOrder": 4,
+        "Name": "İçecek",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00003740.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 96,
+        "DisplayOrder": 0,
+        "Name": "Su",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 97,
+        "DisplayOrder": 0,
+        "Name": "Maden Suyu",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 98,
+        "DisplayOrder": 0,
+        "Name": "Meyve Suyu",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 99,
+        "DisplayOrder": 0,
+        "Name": "Gazlı İçecekler",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 100,
+        "DisplayOrder": 0,
+        "Name": "Enerji İçeceği",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 101,
+        "DisplayOrder": 0,
+        "Name": "Çay",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 102,
+        "DisplayOrder": 0,
+        "Name": "Soğuk Çay",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 103,
+        "DisplayOrder": 0,
+        "Name": "Kahve",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 104,
+        "DisplayOrder": 0,
+        "Name": "Soğuk Kahve",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 106,
+        "DisplayOrder": 0,
+        "Name": "Şalgam",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 107,
+        "DisplayOrder": 0,
+        "Name": "Granül İçecek",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 218,
+        "DisplayOrder": 0,
+        "Name": "Bitki Çayı",
+        "ParentId": 95,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 108,
+        "DisplayOrder": 5,
+        "Name": "Atıştırmalık",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00003747.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 109,
+        "DisplayOrder": 0,
+        "Name": "Çikolata",
+        "ParentId": 108,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 110,
+        "DisplayOrder": 0,
+        "Name": "Bar",
+        "ParentId": 108,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 111,
+        "DisplayOrder": 0,
+        "Name": "Gofret",
+        "ParentId": 108,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 112,
+        "DisplayOrder": 0,
+        "Name": "Bisküvi",
+        "ParentId": 108,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 113,
+        "DisplayOrder": 0,
+        "Name": "Kek",
+        "ParentId": 108,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 114,
+        "DisplayOrder": 0,
+        "Name": "Kraker",
+        "ParentId": 108,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 115,
+        "DisplayOrder": 0,
+        "Name": "Cips",
+        "ParentId": 108,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 116,
+        "DisplayOrder": 0,
+        "Name": "Kuruyemiş & Kuru Meyve",
+        "ParentId": 108,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 117,
+        "DisplayOrder": 0,
+        "Name": "Sakız & Şekerleme",
+        "ParentId": 108,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 118,
+        "DisplayOrder": 0,
+        "Name": "Lokum",
+        "ParentId": 108,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 119,
+        "DisplayOrder": 6,
+        "Name": "Temel Gıda",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00003746.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 120,
+        "DisplayOrder": 0,
+        "Name": "Bakliyat",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 121,
+        "DisplayOrder": 0,
+        "Name": "Makarna",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 122,
+        "DisplayOrder": 0,
+        "Name": "Sıvı Yağ",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 123,
+        "DisplayOrder": 0,
+        "Name": "Tereyağ & Margarin",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 124,
+        "DisplayOrder": 0,
+        "Name": "Salça & Sos",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 125,
+        "DisplayOrder": 0,
+        "Name": "Sirke & Salata Sosu",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 126,
+        "DisplayOrder": 0,
+        "Name": "Şeker",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 127,
+        "DisplayOrder": 0,
+        "Name": "Çorba",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 128,
+        "DisplayOrder": 0,
+        "Name": "Baharat & Harç",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 129,
+        "DisplayOrder": 0,
+        "Name": "Konserve",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 130,
+        "DisplayOrder": 0,
+        "Name": "Tatlı & Katkı",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 195,
+        "DisplayOrder": 0,
+        "Name": "Un",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 203,
+        "DisplayOrder": 0,
+        "Name": "Bayramlık Ürünler",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 213,
+        "DisplayOrder": 0,
+        "Name": "Turşu",
+        "ParentId": 119,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 131,
+        "DisplayOrder": 9,
+        "Name": "Hazır Yemek & Dondurulmuş Gıda",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00003742.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 132,
+        "DisplayOrder": 0,
+        "Name": "Meze",
+        "ParentId": 131,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 133,
+        "DisplayOrder": 0,
+        "Name": "Konserve",
+        "ParentId": 131,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 134,
+        "DisplayOrder": 0,
+        "Name": "Hazır Yemek",
+        "ParentId": 131,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 135,
+        "DisplayOrder": 0,
+        "Name": "Dondurulmuş Gıda",
+        "ParentId": 131,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 136,
+        "DisplayOrder": 10,
+        "Name": "Bebek",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00003731.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 137,
+        "DisplayOrder": 0,
+        "Name": "Bebek Beslenme",
+        "ParentId": 136,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 138,
+        "DisplayOrder": 0,
+        "Name": "Bebek Bezi",
+        "ParentId": 136,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 139,
+        "DisplayOrder": 0,
+        "Name": "Bebek Bakım",
+        "ParentId": 136,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 141,
+        "DisplayOrder": 3,
+        "Name": "Kahvaltılık",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00010333.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 142,
+        "DisplayOrder": 0,
+        "Name": "Gevrek & Müsli",
+        "ParentId": 141,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 144,
+        "DisplayOrder": 0,
+        "Name": "Et Şarküteri",
+        "ParentId": 141,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 146,
+        "DisplayOrder": 0,
+        "Name": "Yumurta",
+        "ParentId": 141,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 147,
+        "DisplayOrder": 0,
+        "Name": "Zeytin",
+        "ParentId": 141,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 149,
+        "DisplayOrder": 0,
+        "Name": "Bal & Reçel",
+        "ParentId": 141,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 150,
+        "DisplayOrder": 0,
+        "Name": "Helva & Krokan",
+        "ParentId": 141,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 151,
+        "DisplayOrder": 0,
+        "Name": "Tahin & Pekmez",
+        "ParentId": 141,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 152,
+        "DisplayOrder": 0,
+        "Name": "Çikolata & Sürülebilir",
+        "ParentId": 141,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 153,
+        "DisplayOrder": 0,
+        "Name": "Tereyağ & Margarin",
+        "ParentId": 141,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 155,
+        "DisplayOrder": 16,
+        "Name": "Teknoloji & Yaşam",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00003743.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 158,
+        "DisplayOrder": 0,
+        "Name": "Elektrik & Aydınlatma",
+        "ParentId": 155,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 159,
+        "DisplayOrder": 0,
+        "Name": "Tekstil & Giyim",
+        "ParentId": 155,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 160,
+        "DisplayOrder": 0,
+        "Name": "Ev & Oto Aksesuar",
+        "ParentId": 155,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 161,
+        "DisplayOrder": 0,
+        "Name": "Ev & Oto Kokuları",
+        "ParentId": 155,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 162,
+        "DisplayOrder": 0,
+        "Name": "Ofis & Kırtasiye",
+        "ParentId": 155,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 163,
+        "DisplayOrder": 0,
+        "Name": "Haşere İlacı",
+        "ParentId": 155,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 164,
+        "DisplayOrder": 0,
+        "Name": "Bahçe Malzemeleri",
+        "ParentId": 155,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 199,
+        "DisplayOrder": 0,
+        "Name": "Mum & Çakmak",
+        "ParentId": 155,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 208,
+        "DisplayOrder": 0,
+        "Name": "Pil",
+        "ParentId": 155,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 165,
+        "DisplayOrder": 15,
+        "Name": "Ev & Mutfak Gereçleri",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00003744.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 166,
+        "DisplayOrder": 0,
+        "Name": "Pişirme Ürünleri",
+        "ParentId": 165,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 167,
+        "DisplayOrder": 0,
+        "Name": "Mutfak Sarf",
+        "ParentId": 165,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 168,
+        "DisplayOrder": 0,
+        "Name": "Saklama Ürünleri",
+        "ParentId": 165,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 169,
+        "DisplayOrder": 0,
+        "Name": "Kullan At",
+        "ParentId": 165,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 201,
+        "DisplayOrder": 0,
+        "Name": "Mutfak Sarf",
+        "ParentId": 165,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 202,
+        "DisplayOrder": 0,
+        "Name": "Mangal Malzemeleri",
+        "ParentId": 165,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 214,
+        "DisplayOrder": 0,
+        "Name": "Elektrikli Aletler",
+        "ParentId": 165,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 215,
+        "DisplayOrder": 0,
+        "Name": "Mutfak Eşyaları",
+        "ParentId": 165,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 216,
+        "DisplayOrder": 0,
+        "Name": "Ev Gereçleri",
+        "ParentId": 165,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 217,
+        "DisplayOrder": 0,
+        "Name": "Servis Ürünleri",
+        "ParentId": 165,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 170,
+        "DisplayOrder": 12,
+        "Name": "Evcil Hayvan",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00003745.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 171,
+        "DisplayOrder": 0,
+        "Name": "Kedi",
+        "ParentId": 170,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 172,
+        "DisplayOrder": 0,
+        "Name": "Köpek",
+        "ParentId": 170,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 173,
+        "DisplayOrder": 0,
+        "Name": "Kuş",
+        "ParentId": 170,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 209,
+        "DisplayOrder": 0,
+        "Name": "Pet Ürünleri",
+        "ParentId": 170,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 174,
+        "DisplayOrder": 11,
+        "Name": "Temizlik",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00003736.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 175,
+        "DisplayOrder": 0,
+        "Name": "Çamaşır Deterjanı",
+        "ParentId": 174,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 176,
+        "DisplayOrder": 0,
+        "Name": "Bulaşık",
+        "ParentId": 174,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 177,
+        "DisplayOrder": 0,
+        "Name": "Mutfak",
+        "ParentId": 174,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 178,
+        "DisplayOrder": 0,
+        "Name": "Genel Temizleyiciler",
+        "ParentId": 174,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 179,
+        "DisplayOrder": 0,
+        "Name": "Sabun",
+        "ParentId": 174,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 180,
+        "DisplayOrder": 0,
+        "Name": "Dezenfektan",
+        "ParentId": 174,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 197,
+        "DisplayOrder": 0,
+        "Name": "Oda&Tuvalet Kokuları",
+        "ParentId": 174,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 198,
+        "DisplayOrder": 0,
+        "Name": "Yüzey Temizleyicileri",
+        "ParentId": 174,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 210,
+        "DisplayOrder": 0,
+        "Name": "Temizlik Bezi & Sünger",
+        "ParentId": 174,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 212,
+        "DisplayOrder": 0,
+        "Name": "Çamaşır  Yumuşatıcı",
+        "ParentId": 174,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 181,
+        "DisplayOrder": 13,
+        "Name": "Kağıt Ürünleri",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00026115.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 220,
+        "DisplayOrder": 0,
+        "Name": "Tuvalet Kağıdı",
+        "ParentId": 181,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 221,
+        "DisplayOrder": 0,
+        "Name": "Kağıt Havlu",
+        "ParentId": 181,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 222,
+        "DisplayOrder": 0,
+        "Name": "Islak Mendil",
+        "ParentId": 181,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 223,
+        "DisplayOrder": 0,
+        "Name": "Peçete ve Mendil",
+        "ParentId": 181,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 224,
+        "DisplayOrder": 0,
+        "Name": "Hasta Bezi",
+        "ParentId": 181,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 182,
+        "DisplayOrder": 14,
+        "Name": "Kişisel Bakım",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00003737.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 183,
+        "DisplayOrder": 0,
+        "Name": "Ağız Bakım",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 184,
+        "DisplayOrder": 0,
+        "Name": "Duş & Banyo",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 185,
+        "DisplayOrder": 0,
+        "Name": "Saç Bakım",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 186,
+        "DisplayOrder": 0,
+        "Name": "Deodorant & Parfüm",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 187,
+        "DisplayOrder": 0,
+        "Name": "Makyaj & Cilt Bakım",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 188,
+        "DisplayOrder": 0,
+        "Name": "Tıraş Malzemeleri",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 189,
+        "DisplayOrder": 0,
+        "Name": "Ağda & Tüy Dökücüler",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 190,
+        "DisplayOrder": 0,
+        "Name": "Kolonya & Dezenfektan",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 191,
+        "DisplayOrder": 0,
+        "Name": "Hijyenik Ped",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 192,
+        "DisplayOrder": 0,
+        "Name": "Genel Sağlık",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 193,
+        "DisplayOrder": 0,
+        "Name": "Islak Mendil",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 194,
+        "DisplayOrder": 0,
+        "Name": "Sabun",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 204,
+        "DisplayOrder": 0,
+        "Name": "Güneş Ürünleri",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 205,
+        "DisplayOrder": 0,
+        "Name": "Sağlık Ürünleri",
+        "ParentId": 182,
+        "Picture": "",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 206,
+        "DisplayOrder": 7,
+        "Name": "Süt Ürünleri",
+        "ParentId": 0,
+        "Picture": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00010336.jpeg",
+        "ShowOnHomepage": true
+      },
+      {
+        "CategoryId": 105,
+        "DisplayOrder": 0,
+        "Name": "Ayran & Kefir",
+        "ParentId": 206,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 143,
+        "DisplayOrder": 0,
+        "Name": "Süt",
+        "ParentId": 206,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 145,
+        "DisplayOrder": 0,
+        "Name": "Peynir",
+        "ParentId": 206,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 148,
+        "DisplayOrder": 0,
+        "Name": "Yoğurt",
+        "ParentId": 206,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 207,
+        "DisplayOrder": 0,
+        "Name": "Yoğurt",
+        "ParentId": 206,
+        "Picture": "",
+        "ShowOnHomepage": false
+      },
+      {
+        "CategoryId": 211,
+        "DisplayOrder": 0,
+        "Name": "Sütlü Tatlı, Krema",
+        "ParentId": 206,
+        "Picture": "",
+        "ShowOnHomepage": false
+      }
+    ]
+  },
+  "statusCode": 200,
+  "message": "Success"
+}
